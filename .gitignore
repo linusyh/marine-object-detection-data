@@ -1,0 +1,10 @@
+.pyenv/
+.test/
+coco/
+cropped/
+dump/
+gardar/
+images/
+masks/
+tools/
+schema.json

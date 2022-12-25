@@ -1,0 +1,23 @@
+{
+    "Sea Pigs": ["Elpidiidae"],
+    
+    "Sea cucumbers": ["Holothuroidea"], 
+    
+    "Soft corals": ["Alcyonacea"], 
+
+    "Stony corals": ["Scleractinia"],
+
+    "Black corals": ["Antipatharia"],
+    
+    "Starfish":  ["Asteroidea"], 
+    
+    "Sea pens":  ["Pennatulacea"], 
+    
+    "Sea anemones":  ["Actiniaria"], 
+    
+    "Demosponges":  ["Demospongiae"], 
+    
+    "Glass sponges": ["Hexactinellida"],
+
+    "Sea urchins": ["Echinoidea"]
+}

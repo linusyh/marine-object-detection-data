@@ -1,0 +1,48 @@
+{
+    "Sea cucumbers (Seapigs)":
+    ["Elpidiidae"],
+    
+    "Sea cucumbers":
+    ["Cucumariidae", 
+    "Psolidae", 
+    "Laetmogonidae", 
+    "Synallactidae"], 
+    
+    "Soft corals":
+    ["Isididae",
+    "Alcyoniidae", 
+    "Plexauridae", 
+    "Paragorgiidae", 
+    "Nephtheidae", 
+    "Primnoidae"], 
+    
+    "Starfish": 
+    ["Solasteridae", 
+    "Asteriidae",
+    "Pterasteridae", 
+    "Goniasteridae"], 
+    
+    "Sea pens": 
+    ["Funiculinidae", 
+    "Umbellulidae"], 
+    
+    "Sea anemones": 
+    ["Metridiidae", 
+    "Actinernidae", 
+    "Liponematidae", 
+    "Actiniidae", 
+    "Hormathiidae"], 
+    
+    "Demosponges": 
+    ["Cladorhizidae",
+    "Mycalidae"], 
+    
+    "Glass sponges":
+    ["Farreidae", 
+    "Rossellidae", 
+    "Hyalonematidae"],
+
+    "Sea urchins":
+    ["Strongylocentrotidae",
+    "Pourtalesiidae"]
+}
